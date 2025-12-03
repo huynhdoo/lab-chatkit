@@ -1,3 +1,5 @@
 react_agent.egg-info/
 .venv/
 uv.lock
+*.pyc
+.sesskey
